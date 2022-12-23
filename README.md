@@ -1,1 +1,3 @@
 # Teacher-s-Tool-1.0
+#Teachers tool 1.0  is a program based on python and mysql interface.  I have made this project keeping in mind that even a person who know nothing about programming and its basics can use it flawlessly.
+#Many times teachers have marks slips of student and when a particular student ask for his/her result teacher has to send the mark slip of whole class. It discloses private or confedential marks of someone to all. Teachers tool 1.0 rectifies this problem . Teacher just to feed marks and the result of particular student is generated in seconds.Many functions , modifications could be done easily.
